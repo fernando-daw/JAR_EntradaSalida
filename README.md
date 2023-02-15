@@ -1,9 +1,7 @@
 # JAR_EntradaSalida
 
 Tarea: Creación de librerías
-Crea las siguiente libreria.
 
-Entrega el repositorios y en la release el jar de la libreria
 
 Crea una libreria que realize las cuatro operaciones básicas (suma, resta, multiplicación, division).
 Solo un método que recibe dos numeros (float) y una opción (una literal) la operación que tiene que hacer
